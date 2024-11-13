@@ -1,0 +1,652 @@
+,source,target,1994
+0,Argentina,Germany,1382.38
+1,Argentina,Chile,998.81
+2,Argentina,France,1072.14
+3,Argentina,Brazil,3654.81
+4,Argentina,Italy,1431.12
+5,Argentina,Netherlands,1179.55
+6,Argentina,United States,4928.28
+7,Germany,United Kingdom,34258.22
+8,Germany,France,51329.4
+9,Germany,Netherlands,32617.96
+10,Germany,Italy,32085.83
+11,Germany,United States,27591.67
+12,Chile,Germany,506.5
+13,Chile,Japan,1972.09
+14,Chile,Brazil,616.66
+15,Chile,"Korea, Rep.",594.49
+16,Chile,Argentina,954.7
+17,Chile,United States,2637.86
+18,France,Germany,39974.72
+19,France,United Kingdom,23112.4
+20,France,Belgium-Luxembourg,20791.07
+21,France,Italy,22999.65
+22,France,Spain,16691.71
+23,France,United States,19476.21
+24,Brazil,Germany,2048.82
+25,Brazil,Japan,2586.07
+26,Brazil,Argentina,3828.39
+27,Brazil,Italy,2066.48
+28,Brazil,Netherlands,3077.1
+29,Brazil,United States,8202.66
+30,Italy,Germany,36119.16
+31,Italy,United Kingdom,12337.39
+32,Italy,Switzerland,8254.95
+33,Italy,France,24851.6
+34,Italy,Netherlands,9591.46
+35,Italy,Spain,8920.77
+36,Italy,United States,14744.63
+37,Netherlands,Germany,38267.22
+38,Netherlands,United Kingdom,12533.84
+39,Netherlands,Belgium-Luxembourg,14690.32
+40,Netherlands,France,13978.89
+41,Netherlands,United States,10267.98
+42,Netherlands,Special Categories,13282.92
+43,United States,Germany,19226.24
+44,United States,Japan,53453.45
+45,United States,Canada,114253.03
+46,United States,Mexico,50834.16
+47,United States,China,41345.78
+48,United States,United Kingdom,26831.62
+49,Australia,Germany,2946.36
+50,Australia,United Kingdom,2948.08
+51,Australia,Japan,10921.61
+52,Australia,New Zealand,2444.7
+53,Australia,"Korea, Rep.",3075.31
+54,Australia,United States,10848.51
+55,United Kingdom,Germany,23707.85
+56,United Kingdom,Japan,13176.75
+57,United Kingdom,Belgium-Luxembourg,10224.33
+58,United Kingdom,France,18719.52
+59,United Kingdom,Netherlands,13442.89
+60,United Kingdom,United States,23538.58
+61,Japan,"Other Asia, nes",23780.2
+62,Japan,"Hong Kong, China",25712.89
+63,Japan,"Korea, Rep.",24317.73
+64,Japan,China,27483.6
+65,Japan,Australia,13641.65
+66,Japan,United States,63288.2
+67,Japan,Indonesia,12923.62
+68,Japan,Singapore,19596.31
+69,New Zealand,Germany,542.56
+70,New Zealand,United Kingdom,734.9
+71,New Zealand,Japan,1867.6
+72,New Zealand,"Korea, Rep.",585.69
+73,New Zealand,Australia,2558.37
+74,New Zealand,United States,2279.82
+75,"Korea, Rep.",Germany,4313.47
+76,"Korea, Rep.",Japan,13522.83
+77,"Korea, Rep.","Hong Kong, China",8014.71
+78,"Korea, Rep.",China,5462.7
+79,"Korea, Rep.",Saudi Arabia,3815.52
+80,"Korea, Rep.",United States,21598.59
+81,Austria,Germany,17177.4
+82,Austria,Japan,2366.45
+83,Austria,Switzerland,2868.97
+84,Austria,France,2051.41
+85,Austria,Italy,4881.82
+86,Austria,United States,2418.58
+87,Austria,Hungary,1763.72
+88,Switzerland,Germany,16157.71
+89,Switzerland,United Kingdom,4566.88
+90,Switzerland,France,6192.71
+91,Switzerland,Italy,6705.99
+92,Switzerland,United States,4497.97
+93,Hungary,Germany,3017.45
+94,Hungary,United Kingdom,464.74
+95,Hungary,Russian Federation,807.04
+96,Hungary,Italy,1017.55
+97,Hungary,Austria,1163.88
+98,Burundi,Germany,10.23
+99,Burundi,Japan,15.09
+100,Burundi,Belgium-Luxembourg,28.06
+101,Burundi,Switzerland,33.03
+102,Burundi,France,23.8
+103,Burundi,United Kingdom,27.96
+104,Burundi,"Iran, Islamic Rep.",15.36
+105,Belize,United Kingdom,43.42
+106,Belize,Netherlands Antilles,14.51
+107,Belize,Mexico,11.91
+108,Belize,France,3.84
+109,Belize,Guatemala,8.8
+110,Belize,United States,138.45
+111,Belize,Canada,10.23
+112,Mexico,Germany,3099.71
+113,Mexico,Japan,923.3
+114,Mexico,Canada,1530.74
+115,Mexico,France,426.19
+116,Mexico,Spain,869.79
+117,Mexico,United States,54812.85
+118,Guatemala,Germany,104.84
+119,Guatemala,Mexico,67.17
+120,Guatemala,El Salvador,228.97
+121,Guatemala,Costa Rica,97.61
+122,Guatemala,Venezuela,137.24
+123,Guatemala,Honduras,87.02
+124,Guatemala,United States,1169.0
+125,Canada,Germany,1669.89
+126,Canada,United Kingdom,2399.04
+127,Canada,Japan,7082.02
+128,Canada,China,1681.74
+129,Canada,Mexico,3274.24
+130,Canada,United States,100226.3
+131,Bolivia,Japan,181.79
+132,Bolivia,Chile,93.89
+133,Bolivia,Brazil,178.57
+134,Bolivia,Peru,122.91
+135,Bolivia,Argentina,117.45
+136,Bolivia,Colombia,63.94
+137,Bolivia,United Kingdom,150.64
+138,Bolivia,United States,235.02
+139,Peru,Germany,279.34
+140,Peru,Japan,384.59
+141,Peru,China,284.84
+142,Peru,Brazil,372.78
+143,Peru,United Kingdom,405.32
+144,Peru,Argentina,299.12
+145,Peru,United States,1583.06
+146,Colombia,Germany,872.16
+147,Colombia,Japan,353.05
+148,Colombia,Canada,437.65
+149,Colombia,Venezuela,545.02
+150,Colombia,United States,3836.24
+151,Colombia,Ecuador,324.91
+152,Brunei,United Kingdom,130.05
+153,Brunei,Japan,1219.87
+154,Brunei,"Other Asia, nes",59.54
+155,Brunei,Thailand,245.23
+156,Brunei,"Korea, Rep.",306.64
+157,Brunei,Singapore,196.82
+158,Brunei,Malaysia,244.53
+159,Brunei,United States,212.37
+160,Thailand,Germany,1591.77
+161,Thailand,Japan,7725.14
+162,Thailand,"Hong Kong, China",2385.4
+163,Thailand,Singapore,6165.36
+164,Thailand,"Other Asia, nes",2758.16
+165,Thailand,United States,6448.01
+166,Singapore,Japan,6797.24
+167,Singapore,Thailand,5380.1
+168,Singapore,"Hong Kong, China",8421.66
+169,Singapore,Malaysia,19118.0
+170,Singapore,"Other Asia, nes",3951.2
+171,Singapore,United States,15701.68
+172,Malaysia,Germany,2500.21
+173,Malaysia,Japan,7091.84
+174,Malaysia,"Hong Kong, China",2714.65
+175,Malaysia,Singapore,12173.27
+176,Malaysia,United Kingdom,2233.02
+177,Malaysia,"Other Asia, nes",3042.74
+178,Malaysia,United States,9955.18
+179,Bhutan,Germany,1.95
+180,Bhutan,United Kingdom,1.86
+181,Bhutan,Japan,12.65
+182,Bhutan,Denmark,2.7
+183,Bhutan,India,65.35
+184,Bhutan,Nepal,0.03
+185,Bhutan,United States,0.04
+186,Bhutan,Bangladesh,4.07
+187,Denmark,Germany,8302.77
+188,Denmark,United Kingdom,3036.74
+189,Denmark,Sweden,3891.67
+190,Denmark,Norway,2483.29
+191,Denmark,France,1811.47
+192,Denmark,Netherlands,2248.37
+193,India,Germany,1747.67
+194,India,United Kingdom,1690.87
+195,India,Japan,2026.52
+196,India,"Hong Kong, China",1517.33
+197,India,United States,2891.62
+198,Nepal,India,429.84
+199,Nepal,Switzerland,11.71
+200,Nepal,Germany,202.41
+201,Nepal,Singapore,75.85
+202,Nepal,China,53.14
+203,Nepal,United Kingdom,45.3
+204,Nepal,"Hong Kong, China",142.85
+205,Nepal,United States,69.92
+206,Central African Republic,Japan,8.58
+207,Central African Republic,Belgium-Luxembourg,64.91
+208,Central African Republic,France,9.86
+209,Central African Republic,"Congo, Rep.",18.04
+210,Central African Republic,Fm Sudan,0.81
+211,Central African Republic,Spain,1.15
+212,Central African Republic,Cameroon,8.43
+213,"Congo, Rep.","Other Asia, nes",118.79
+214,"Congo, Rep.",France,56.25
+215,"Congo, Rep.",Netherlands,24.6
+216,"Congo, Rep.",Italy,17.06
+217,"Congo, Rep.",Spain,28.08
+218,"Congo, Rep.",United States,39.51
+219,Spain,Germany,10397.33
+220,Spain,United Kingdom,6016.45
+221,Spain,France,14746.5
+222,Spain,Italy,8274.19
+223,Spain,Portugal,5694.36
+224,Spain,United States,6750.14
+225,China,Japan,21578.6
+226,China,"Hong Kong, China",9441.67
+227,China,Germany,4761.14
+228,China,"Korea, Rep.",4402.44
+229,China,"Other Asia, nes",14085.57
+230,China,United States,13893.69
+231,"Hong Kong, China",Japan,8437.33
+232,"Hong Kong, China",China,60937.32
+233,"Hong Kong, China",Germany,7054.02
+234,"Hong Kong, China",Singapore,8026.83
+235,"Hong Kong, China",United Kingdom,4870.66
+236,"Hong Kong, China","Other Asia, nes",13886.58
+237,"Hong Kong, China",United States,12519.38
+238,Venezuela,Germany,444.99
+239,Venezuela,Japan,449.99
+240,Venezuela,Netherlands Antilles,1051.1
+241,Venezuela,Suriname,888.39
+242,Venezuela,Colombia,401.15
+243,Venezuela,Brazil,568.14
+244,Venezuela,Italy,299.07
+245,Venezuela,United States,3704.44
+246,Ecuador,Germany,188.78
+247,Ecuador,Chile,166.49
+248,Ecuador,Japan,515.46
+249,Ecuador,Brazil,226.92
+250,Ecuador,"Korea, Rep.",289.62
+251,Ecuador,Colombia,297.87
+252,Ecuador,United States,950.26
+253,Costa Rica,Japan,166.4
+254,Costa Rica,Belgium-Luxembourg,148.15
+255,Costa Rica,Guatemala,102.6
+256,Costa Rica,Germany,197.84
+257,Costa Rica,Mexico,136.7
+258,Costa Rica,Brazil,124.34
+259,Costa Rica,Venezuela,164.89
+260,Costa Rica,Italy,105.36
+261,Costa Rica,United States,1341.87
+262,Cyprus,Germany,247.79
+263,Cyprus,United Kingdom,142.5
+264,Cyprus,Japan,205.22
+265,Cyprus,Greece,72.77
+266,Cyprus,Lebanon,82.92
+267,Cyprus,Russian Federation,97.94
+268,Cyprus,Italy,297.87
+269,Cyprus,United States,311.56
+270,Greece,Germany,1983.11
+271,Greece,United Kingdom,550.66
+272,Greece,France,501.67
+273,Greece,Netherlands,1603.2
+274,Greece,Italy,3576.04
+275,Greece,United States,455.37
+276,Czech Republic,Germany,4153.09
+277,Czech Republic,Slovak Republic,2131.11
+278,Czech Republic,Poland,548.56
+279,Czech Republic,Russian Federation,1256.5
+280,Czech Republic,Italy,768.45
+281,Czech Republic,Austria,1013.09
+282,Slovak Republic,Germany,1143.85
+283,Slovak Republic,Czech Republic,1957.84
+284,Slovak Republic,Russian Federation,1194.64
+285,Slovak Republic,Italy,289.6
+286,Slovak Republic,Austria,351.31
+287,Slovak Republic,Hungary,365.68
+288,Poland,Germany,6114.64
+289,Poland,United Kingdom,769.68
+290,Poland,Netherlands,996.89
+291,Poland,Russian Federation,902.91
+292,Poland,Italy,1778.45
+293,Dominica,United Kingdom,21.48
+294,Dominica,Japan,4.53
+295,Dominica,Trinidad and Tobago,12.03
+296,Dominica,St. Lucia,2.37
+297,Dominica,Jamaica,4.49
+298,Dominica,Guadeloupe,2.07
+299,Dominica,United States,34.4
+300,Trinidad and Tobago,Guyana,59.77
+301,Trinidad and Tobago,United Kingdom,94.17
+302,Trinidad and Tobago,Japan,52.17
+303,Trinidad and Tobago,Canada,74.4
+304,Trinidad and Tobago,Brazil,59.69
+305,Trinidad and Tobago,Jamaica,119.29
+306,Trinidad and Tobago,Barbados,70.52
+307,Trinidad and Tobago,United States,547.38
+308,St. Lucia,United Kingdom,49.86
+309,St. Lucia,Japan,12.62
+310,St. Lucia,Canada,11.72
+311,St. Lucia,Dominica,4.83
+312,St. Lucia,Trinidad and Tobago,2.07
+313,St. Lucia,Barbados,2.12
+314,St. Lucia,United States,119.0
+315,Guadeloupe,Germany,55.31
+316,Guadeloupe,Belgium-Luxembourg,2.7
+317,Guadeloupe,France,114.91
+318,Guadeloupe,Martinique,20.34
+319,Guadeloupe,Italy,55.43
+320,Guadeloupe,United States,48.23
+321,Guadeloupe,French Guiana,3.69
+322,Sweden,Germany,7647.69
+323,Sweden,United Kingdom,5744.78
+324,Sweden,Norway,4668.66
+325,Sweden,Denmark,3413.07
+326,Sweden,Finland,3249.74
+327,Sweden,United States,4413.38
+328,Norway,Germany,4322.3
+329,Norway,United Kingdom,7231.61
+330,Norway,Sweden,4094.35
+331,Norway,Denmark,2015.51
+332,Norway,France,2826.94
+333,Norway,Netherlands,3302.83
+334,Norway,United States,2009.76
+335,Algeria,Germany,517.07
+336,Algeria,France,1326.22
+337,Algeria,Italy,931.38
+338,Algeria,Spain,901.2
+339,Algeria,Netherlands,885.0
+340,Algeria,United States,1371.81
+341,"Egypt, Arab Rep.",Germany,209.72
+342,"Egypt, Arab Rep.",France,592.26
+343,"Egypt, Arab Rep.",Italy,613.77
+344,"Egypt, Arab Rep.",Free Zones,468.48
+345,"Egypt, Arab Rep.",Netherlands,207.04
+346,"Egypt, Arab Rep.",Israel,188.85
+347,"Egypt, Arab Rep.",United States,1615.98
+348,Portugal,Germany,3400.9
+349,Portugal,United Kingdom,2085.58
+350,Portugal,France,2645.88
+351,Portugal,Spain,5384.68
+352,Portugal,Italy,2318.41
+353,Portugal,Netherlands,966.78
+354,Finland,Germany,3883.09
+355,Finland,United Kingdom,2996.86
+356,Finland,Sweden,2435.08
+357,Finland,Russian Federation,1530.68
+358,Finland,United States,1780.41
+359,Gabon,Germany,39.65
+360,Gabon,United Kingdom,45.1
+361,Gabon,France,361.55
+362,Gabon,Portugal,91.22
+363,Gabon,Spain,92.47
+364,Gabon,United States,83.49
+365,Martinique,Germany,52.98
+366,Martinique,United Kingdom,2.73
+367,Martinique,Belgium-Luxembourg,10.47
+368,Martinique,France,96.59
+369,Martinique,Guadeloupe,93.3
+370,Martinique,Italy,57.42
+371,Martinique,French Guiana,6.0
+372,French Guiana,Germany,26.34
+373,French Guiana,Switzerland,5.53
+374,French Guiana,France,106.64
+375,French Guiana,Trinidad and Tobago,44.71
+376,French Guiana,Guadeloupe,10.21
+377,French Guiana,Italy,39.92
+378,French Guiana,United States,7.47
+379,French Guiana,Martinique,7.62
+380,Grenada,United Kingdom,3.01
+381,Grenada,Japan,5.68
+382,Grenada,Germany,1.86
+383,Grenada,Trinidad and Tobago,23.46
+384,Grenada,Barbados,3.43
+385,Grenada,St. Lucia,1.53
+386,Grenada,Netherlands,1.53
+387,Grenada,United States,41.5
+388,Greenland,Denmark,299.47
+389,Greenland,Germany,8.67
+390,Greenland,Japan,18.19
+391,Greenland,Norway,11.49
+392,Greenland,United Kingdom,17.72
+393,Greenland,United States,12.84
+394,El Salvador,Japan,142.89
+395,El Salvador,Guatemala,241.81
+396,El Salvador,Germany,120.48
+397,El Salvador,Mexico,105.27
+398,El Salvador,Costa Rica,75.24
+399,El Salvador,Venezuela,138.05
+400,El Salvador,Honduras,58.16
+401,El Salvador,United States,935.73
+402,Honduras,Germany,76.02
+403,Honduras,Japan,24.89
+404,Honduras,Netherlands Antilles,79.19
+405,Honduras,Belgium-Luxembourg,18.62
+406,Honduras,Spain,22.1
+407,Honduras,Guatemala,83.09
+408,Honduras,United States,633.36
+409,Croatia,Germany,941.46
+410,Croatia,Sweden,163.84
+411,Croatia,Bosnia and Herzegovina,338.38
+412,Croatia,Slovenia,540.83
+413,Croatia,Italy,994.57
+414,Croatia,"Iran, Islamic Rep.",292.39
+415,Croatia,Austria,352.66
+416,Slovenia,Germany,2067.71
+417,Slovenia,Croatia,498.17
+418,Slovenia,France,586.25
+419,Slovenia,Italy,1258.18
+420,Slovenia,Austria,373.3
+421,Indonesia,Germany,2472.67
+422,Indonesia,Japan,10929.01
+423,Indonesia,"Other Asia, nes",1646.91
+424,Indonesia,"Korea, Rep.",2592.96
+425,Indonesia,Singapore,4149.63
+426,Indonesia,United States,3587.78
+427,Ireland,Germany,4836.98
+428,Ireland,United Kingdom,9615.37
+429,Ireland,Japan,1233.56
+430,Ireland,France,3138.65
+431,Ireland,Netherlands,1900.58
+432,Ireland,United States,4709.88
+433,Iceland,Germany,208.82
+434,Iceland,United Kingdom,330.96
+435,Iceland,Denmark,132.48
+436,Iceland,Norway,210.61
+437,Iceland,Japan,229.2
+438,Iceland,France,117.65
+439,Iceland,United States,131.05
+440,Jordan,Germany,263.9
+441,Jordan,United Kingdom,172.85
+442,Jordan,India,126.55
+443,Jordan,Iraq,417.1
+444,Jordan,Saudi Arabia,110.51
+445,Jordan,Italy,199.19
+446,Jordan,United States,332.9
+447,Jordan,Free Zones,78.35
+448,Saudi Arabia,Germany,1930.25
+449,Saudi Arabia,United Kingdom,1974.71
+450,Saudi Arabia,Japan,5215.57
+451,Saudi Arabia,France,2465.19
+452,Saudi Arabia,Italy,1097.49
+453,Saudi Arabia,Netherlands,1625.53
+454,Saudi Arabia,United States,4969.26
+455,Saudi Arabia,Special Categories,19261.68
+456,St. Kitts and Nevis,United Kingdom,11.22
+457,St. Kitts and Nevis,Japan,6.24
+458,St. Kitts and Nevis,Netherlands Antilles,0.35
+459,St. Kitts and Nevis,Dominica,0.6
+460,St. Kitts and Nevis,Trinidad and Tobago,0.66
+461,St. Kitts and Nevis,Barbados,3.3
+462,St. Kitts and Nevis,United States,73.45
+463,Sri Lanka,Japan,165.2
+464,Sri Lanka,Belgium-Luxembourg,189.06
+465,Sri Lanka,Germany,222.38
+466,Sri Lanka,"Korea, Rep.",326.17
+467,Sri Lanka,India,404.3
+468,Sri Lanka,United Kingdom,285.29
+469,Sri Lanka,"Hong Kong, China",316.46
+470,Sri Lanka,United States,284.59
+471,Lithuania,Germany,232.71
+472,Lithuania,Poland,103.91
+473,Lithuania,Belarus,98.55
+474,Lithuania,Latvia,171.31
+475,Lithuania,Russian Federation,572.85
+476,Lithuania,Ukraine,129.4
+477,Latvia,Germany,104.36
+478,Latvia,Sweden,79.73
+479,Latvia,Finland,106.02
+480,Latvia,United Kingdom,96.12
+481,Latvia,Russian Federation,278.28
+482,Latvia,Ukraine,58.35
+483,Macao,Japan,267.17
+484,Macao,"Hong Kong, China",634.12
+485,Macao,China,393.33
+486,Macao,Germany,188.98
+487,Macao,France,131.7
+488,Macao,"Other Asia, nes",141.81
+489,Macao,United States,142.71
+490,Morocco,Germany,506.65
+491,Morocco,India,258.2
+492,Morocco,France,1279.19
+493,Morocco,Japan,268.1
+494,Morocco,Italy,485.66
+495,Morocco,Spain,631.36
+496,Morocco,United States,620.39
+497,Moldova,Germany,19.67
+498,Moldova,Romania,42.52
+499,Moldova,Belarus,20.07
+500,Moldova,Russian Federation,289.66
+501,Moldova,Ukraine,122.66
+502,Romania,Germany,985.93
+503,Romania,China,275.61
+504,Romania,Russian Federation,980.24
+505,Romania,France,315.79
+506,Romania,Italy,841.5
+507,Romania,"Iran, Islamic Rep.",443.03
+508,Romania,Turkey,250.73
+509,Romania,United States,459.76
+510,Madagascar,Germany,37.14
+511,Madagascar,Japan,26.39
+512,Madagascar,South Africa,44.9
+513,Madagascar,France,111.77
+514,Madagascar,Reunion,20.77
+515,Madagascar,"Iran, Islamic Rep.",21.97
+516,Madagascar,United States,25.98
+517,South Africa,Germany,3626.8
+518,South Africa,United Kingdom,1654.01
+519,South Africa,Japan,1169.5
+520,South Africa,Switzerland,1703.76
+521,South Africa,United States,2390.29
+522,South Africa,Special Categories,9600.09
+523,Reunion,Germany,64.62
+524,Reunion,South Africa,56.99
+525,Reunion,France,127.12
+526,Reunion,Madagascar,5.65
+527,Reunion,Comoros,7.58
+528,Reunion,Japan,10.64
+529,Reunion,Italy,75.13
+530,Reunion,Bahrain,82.88
+531,Reunion,Mauritius,3.4
+532,North Macedonia,Germany,145.96
+533,North Macedonia,Bulgaria,239.68
+534,North Macedonia,Slovenia,162.13
+535,North Macedonia,"Serbia, FR(Serbia/Montenegro)",101.38
+536,North Macedonia,Russian Federation,76.34
+537,North Macedonia,Italy,109.88
+538,Malta,Germany,220.78
+539,Malta,United Kingdom,115.2
+540,Malta,France,153.44
+541,Malta,Italy,645.92
+542,Malta,United States,124.67
+543,Mozambique,United Kingdom,36.15
+544,Mozambique,Japan,24.07
+545,Mozambique,South Africa,28.96
+546,Mozambique,Portugal,25.18
+547,Mozambique,Spain,31.56
+548,Mauritius,United Kingdom,430.9
+549,Mauritius,South Africa,234.31
+550,Mauritius,Germany,79.7
+551,Mauritius,France,270.89
+552,Mauritius,India,128.1
+553,Mauritius,Italy,56.11
+554,Mauritius,"Hong Kong, China",99.01
+555,Mauritius,United States,244.25
+556,Malawi,Germany,51.69
+557,Malawi,United Kingdom,41.22
+558,Malawi,Japan,27.47
+559,Malawi,South Africa,45.51
+560,Malawi,Zimbabwe,54.93
+561,Malawi,United States,32.6
+562,Nicaragua,Japan,60.97
+563,Nicaragua,Germany,44.12
+564,Nicaragua,Costa Rica,68.19
+565,Nicaragua,Venezuela,101.67
+566,Nicaragua,Spain,13.59
+567,Nicaragua,Guatemala,69.19
+568,Nicaragua,El Salvador,37.1
+569,Nicaragua,United States,214.62
+570,Oman,Germany,192.13
+571,Oman,United Kingdom,346.22
+572,Oman,Japan,1887.09
+573,Oman,United Arab Emirates,549.05
+574,Oman,Thailand,447.27
+575,Oman,China,436.37
+576,Oman,"Korea, Rep.",769.43
+577,Oman,United States,263.77
+578,Paraguay,Chile,32.79
+579,Paraguay,Japan,226.53
+580,Paraguay,Brazil,323.7
+581,Paraguay,Argentina,349.35
+582,Paraguay,"Other Asia, nes",152.54
+583,Paraguay,Netherlands,160.04
+584,Paraguay,United States,284.46
+585,Turkey,Germany,3934.25
+586,Turkey,France,851.17
+587,Turkey,United Kingdom,888.86
+588,Turkey,Italy,2008.47
+589,Turkey,Saudi Arabia,1228.81
+590,Turkey,United States,2429.36
+591,Suriname,United Kingdom,24.62
+592,Suriname,Norway,151.54
+593,Suriname,Trinidad and Tobago,56.31
+594,Suriname,Netherlands,145.53
+595,Suriname,Japan,36.17
+596,Suriname,Venezuela,16.37
+597,Suriname,Spain,33.74
+598,Suriname,United States,257.87
+599,Seychelles,United Kingdom,13.31
+600,Seychelles,South Africa,27.49
+601,Seychelles,Germany,3.44
+602,Seychelles,France,11.85
+603,Seychelles,Singapore,30.11
+604,Seychelles,Yemen,29.18
+605,Seychelles,Italy,2.32
+606,Seychelles,United States,2.05
+607,Togo,Germany,21.85
+608,Togo,"Other Asia, nes",21.66
+609,Togo,Cote d'Ivoire,13.84
+610,Togo,Philippines,8.75
+611,Togo,France,53.17
+612,Togo,Bolivia,12.33
+613,Togo,Indonesia,9.15
+614,Togo,Netherlands,11.46
+615,Togo,Canada,27.43
+616,Togo,United States,12.14
+617,Tunisia,Germany,712.81
+618,Tunisia,Belgium-Luxembourg,283.13
+619,Tunisia,France,1232.14
+620,Tunisia,Italy,999.76
+621,Tunisia,Spain,216.84
+622,Tunisia,United States,426.88
+623,Uganda,United Kingdom,14.43
+624,Uganda,Kenya,20.21
+625,Uganda,Japan,57.64
+626,Uganda,Rwanda,20.65
+627,Uganda,United Arab Emirates,35.38
+628,Uganda,India,46.78
+629,Uganda,"Congo, Dem. Rep.",13.02
+630,Uruguay,Germany,121.33
+631,Uruguay,China,115.04
+632,Uruguay,Brazil,493.45
+633,Uruguay,Argentina,608.82
+634,Uruguay,Italy,137.7
+635,Uruguay,United States,262.44
+636,St. Vincent and the Grenadines,United Kingdom,15.83
+637,St. Vincent and the Grenadines,Trinidad and Tobago,5.25
+638,St. Vincent and the Grenadines,Barbados,5.12
+639,St. Vincent and the Grenadines,St. Lucia,6.48
+640,St. Vincent and the Grenadines,Italy,8.0
+641,St. Vincent and the Grenadines,United States,46.48
+642,St. Vincent and the Grenadines,Antigua and Barbuda,3.75
+643,Vanuatu,Japan,4.94
+644,Vanuatu,France,5.88
+645,Vanuatu,New Caledonia,5.07
+646,Vanuatu,Australia,31.16
+647,Vanuatu,United Kingdom,1.52
+648,Vanuatu,Netherlands,4.16
+649,Vanuatu,New Zealand,10.71
+650,Vanuatu,Bangladesh,3.23
